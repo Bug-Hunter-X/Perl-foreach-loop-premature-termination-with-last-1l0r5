@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common issue with the `foreach` loop and the `last` statement.  The script iterates through a numerical array, but the `last` statement inside a conditional prematurely ends the loop when a specific value is encountered. The solution shows how to correctly iterate through the entire array.
